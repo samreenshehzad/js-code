@@ -1,0 +1,65 @@
+{
+  "menu": {
+    "pakistani": [
+      "Biryani",
+      "Qorma",
+      "Chicken Cheese Roll",
+      "Beef Chapli Kabab",
+      "Kabab Fry",
+      "Stir Fry Vegetable",
+      "Aloo Ki Bhujia",
+      "Channa Curry",
+      "Kachori / Puri",
+      "Carrot Achar"
+    ],
+    "SALADS": [
+      "Fresh Cut Veg Salad",
+      "Chat Patay Aloo",
+      "Apple Coleslaw",
+      "Chick Peas Salad",
+      "Italian Pasta Salad",
+      "Greek Farmer Salad"
+    ],
+    "CHINESE": [
+      "Dry Beef Chilli",
+      "Cherry Chicken",
+      "Chinese Fried Rice",
+      "Peking Chowmein"
+    ],
+    "Dessert": [
+      "Khubani Ka Meetha",
+      "Khas Jelly-0",
+      "Chocolate Mousse Cake"
+    ],
+    "SEA FOOD": [
+      "Zinger Fried Prawn",
+      "Tandoori Fried Fish"
+    ],
+    "SUGARFREE DESSERTS": [
+      "Ice Cream (Sugarfree)",
+      "Rice Pudding (Sugarfree)"
+    ],
+    "Dining Areas of LalQila": [
+      "Open To Sky",
+      "Mughlai Hall",
+      "Bara - Dari",
+      "Dewan - e- Khas",
+      "River"
+    ]
+  },
+  "Management": {
+    "CEO": "Mr. Shaukat Ali Suleman",
+    "MD": "Mr. Muhammad Ali",
+    "Director": "Mr. Muhammad Umar Qasim",
+    "Chief chef": "Mr. Abid Siddiq Omerson",
+    "adminManager": "Mr. Shakir Yousuf Omerson"
+  },
+  "Reservation Form": {
+    "Date of Event": "20-jan-2018",
+    "Number of Person Child": "20",
+    "Event type": "Birthday",
+    "E-mail": "m.abdullah.sh@gmail.com",
+    "Phone": "02132628289",
+    "Mobile Number": "03452486338"
+  }
+}
